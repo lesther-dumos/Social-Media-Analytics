@@ -1,1 +1,0 @@
-SELECT * FROM kaggle_data LIMIT 51;
