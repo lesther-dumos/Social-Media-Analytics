@@ -17,5 +17,3 @@ ROUND(AVG("Daily Music Listening Time (hrs)")::numeric, 2) AS hours_music,
 ROUND(AVG("Daily Social Media Time (hrs)")::numeric, 2) AS hours_socialMedia,
 ROUND(AVG("Daily Video Content Time (hrs)")::numeric, 2) AS hours_videoContent
 FROM kaggle_data;
-
-
